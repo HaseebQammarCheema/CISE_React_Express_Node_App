@@ -7,7 +7,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Welcome to ENSE701 - msg created by Haseeb Cheema - 18019284
+            Knock, knock.  Who’s there? 
+            Canoe.  Canoe who? 
+            Canoe come out and play with me?
+            by haseeb Cheema ---
         </p>
         <a
           className="App-link"
